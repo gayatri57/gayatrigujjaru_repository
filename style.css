@@ -1,0 +1,61 @@
+img{
+	border-radius:50%;
+
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  /*border-top-left-radius: 50% 50%;
+	border-top-right-radius: 50% 50%;
+	border-bottom-right-radius: 50% 50%;
+	border-bottom-left-radius: 50% 50%;
+	border-radius: 50%;*/
+	border: 3px red;
+}
+
+.name{
+	color:#4D749B ;
+	text-align: center;
+}
+.about{text-align: center;
+	text-decoration: underline;
+	color:#4D749B;
+
+}
+.icons-social i {
+	font-size: 3em;
+	padding: 10px;
+}
+.des{
+	font-size: "Times New Roman", Times, serif;
+
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
